@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Omar<br><br>I'm a passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications. I work with HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS, and I care about writing clean, scalable code.<br><br>🚀 I enjoy learning new technologies and turning ideas into real-world projects.<br>💡 Always improving my skills and following best practices.<br>
 
 
